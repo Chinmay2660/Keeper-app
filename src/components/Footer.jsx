@@ -6,7 +6,7 @@ function Footer() {
     <footer>
       <p>
         Created by{" "}
-        <a href="https://www.linkedin.com/in/chinmay2660/">Chinmay Bhoir</a>{" "}
+        <a href="https://www.linkedin.com/in/chinmay2660/">Chinmay Bhoir</a> |{" "}
         Copyright © {currentYear}
       </p>
     </footer>
