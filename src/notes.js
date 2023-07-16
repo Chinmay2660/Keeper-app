@@ -1,4 +1,5 @@
 const notes = [
+  // notes is an array of objects
   {
     key: 1,
     title: "Delegation",
