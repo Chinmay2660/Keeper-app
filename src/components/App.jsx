@@ -3,11 +3,13 @@ import Header from "./Header";
 import Footer from "./Footer";
 import Note from "./Note";
 import notes from "../notes";
+import CreateArea from "./CreateArea";
 
 function App() {
   return (
     <React.StrictMode>
       <Header />
+      <CreateArea />
       {notes.map(
         (
           noteItem // map() is a function that takes a function as a parameter
